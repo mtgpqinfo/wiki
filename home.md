@@ -14,4 +14,3 @@
 - [Green](/planeswalkers#green)
 - [Colorless](/planeswalkers#colorless)
 
-Last edited by Test User

@@ -1,4 +1,4 @@
-<!- TITLE: Planeswalkers ->
+<!-- TITLE: Planeswalkers -->
 # Blue
 [Dovin Baan](/planeswalkers/dovin-baan)
 [Jace, Telepath Unbound](/planeswalkers/jace) (Jace 1 / J1)

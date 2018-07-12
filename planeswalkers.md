@@ -24,7 +24,7 @@
 [Nahiri, the Harbinger](/planeswalkers/nahiri)
 [Sorin, Grim Nemesis](/planeswalkers/sorin)
 [Teferi, Hero of Dominaria](/planeswalkers/teferi)
-​
+
 # Black
 [Angrath, the Flame-Chained](/planeswalkers/angrath)
 [Liliana, Defiant Necromancer](/planeswalkers/liliana) (Lili1, L1)
@@ -36,7 +36,6 @@
 [Sorin, Grim Nemesis](/planeswalkers/sorin)
 [Tezzeret the Schemer](/planeswalkers/tezzeret2) (Tezz 2 / t2)
 [Vraska, Relic Seeker](/planeswalkers/vraska)
-​
 # Red
 [Ajani Vengeant](/planeswalkers/ajani) (Ajani 1 / AJ1)
 [Angrath, the Flame-Chained](/planeswalkers/angrath)
@@ -51,7 +50,6 @@
 [Saheeli Rai](/planeswalkers/saheeli_rai)
 [Samut, the Tested](/planeswalkers/samut)
 [Sarkhan the Mad](/planeswalkers/sarkhan)
-​
 # Green
 [Arlinn Kord](/planeswalkers/arlinn_kord)
 [Ajani Unyielding](/planeswalkers/ajani2) (Ajani 2 / AJ2)

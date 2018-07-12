@@ -4,6 +4,8 @@
 ## Schedule
 ## Current
 ## Past
+# Sets
+### 
 # Planeswalkers
 - [Blue](/planeswalkers#blue)
 - [White](/planeswalkers#white)
@@ -12,5 +14,3 @@
 - [Green](/planeswalkers#green)
 - [Colorless](/planeswalkers#colorless)
 
-# Sets
-### 

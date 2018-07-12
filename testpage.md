@@ -1,5 +1,7 @@
 <!-- TITLE: Testpage -->
 <!-- SUBTITLE: A quick summary of Testpage -->
+
+This is a table
 | Property            | Required | Description                                                                                                                          |   Default Value  |
 |---------------------|:--------:|--------------------------------------------------------------------------------------------------------------------------------------|:----------------:|
 | **title**           | yes | The title of the website. Displayed in the navigation bar. | Wiki |
@@ -8,6 +10,7 @@
 | **paths.repo**      | yes | The path (absolute or relative to server.js) to the folder where markdown content will be synchronized with the Git repository. Make sure this folder has the necessary write permissions. Note that this folder will contain all uploads (images, documents, etc.), so make sure to allow enough disk space depending on your usage. | ./repo |
 | **paths.data**      | yes | The path (absolute or relative to server.js) to the folder where temporary data will be stored (cache, thumbnails, search indexes, etc.). Make sure this folder has the necessary write permissions. | ./data |
 | **lang**            | yes | The default language to use for the site UI. Possible values: `en`,  `es`, `fr`, `ko`, `pt`, `ru` or `zh` | en |
+End of table
 
 # Header
 

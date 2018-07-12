@@ -1,7 +1,8 @@
 <!-- TITLE: Welcome to the unofficial mtgpq wiki, a reference written and maintained by players -->
 
 # Events
-## Schedule
+## Upcoming
+![2018/07/15 - 2018/07/21](/uploads/events-schedules/5-q-5-usahepwh-9.png "2018/07/15 - 2018/07/21")
 ## Current
 ## Past
 # Sets

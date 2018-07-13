@@ -51,4 +51,7 @@ Battle for Zendikar , Oath of the Gatewatch
 > Danger
 {.is-danger}
 
+html test
 <a href="https://discord.gg/nSceXUe">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/270013046649257984/widget.png?style=banner2)</a>
+
+

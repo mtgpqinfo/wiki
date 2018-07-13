@@ -1,4 +1,6 @@
-# Contributors
+# Initial Contributors
+These are the folks that helped get everything into place before the wiki went live.
+
 - bken1234
 - Boopers
 - Brakkis

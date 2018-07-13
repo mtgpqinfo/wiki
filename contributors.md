@@ -1,5 +1,3 @@
-<!-- TITLE: Contributors -->
-
 # Contributors
 - bken1234
 - spanargoman

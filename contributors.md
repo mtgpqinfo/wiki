@@ -16,4 +16,4 @@ These are the folks that helped get everything into place before the wiki went l
 - spanargoman
 - summonghost
 - Volrak
-- Zwak010
+- Zwack010

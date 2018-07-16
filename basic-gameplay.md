@@ -8,5 +8,5 @@ Over the course of the game, you will gather different planeswalkers to aid your
 
 ## Game Modes
 The game has 2 primary game modes: Story and Events. Story mode is a collection of pre-constructed missions mainly used to familiarise oneself with the game mechanics. It also contains the tutorials introducing the new mechanics of each new set and gives some rewards to help players get their collection started. Events are where the main experience of the game is. There are PvP (playing against other player-constructed decks) and PvE (playing against developer-designed missions) events for one to choose to dabble in for the chance to earn rewards from their progress and/or their final ranking in the event.
-![M 5 Teukx](/uploads/basic-gameplay/m-5-teukx.jpg "M 5 Teukx")
+![A 5 Naodi](/uploads/basic-gameplay/a-5-naodi.jpg "A 5 Naodi")![M 5 Teukx](/uploads/basic-gameplay/m-5-teukx.jpg "M 5 Teukx")
 

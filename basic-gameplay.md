@@ -9,6 +9,8 @@ Over the course of the game, you will gather different planeswalkers to aid your
 1. Game Modes
 2. Cards
 3. Combat Basics
+4. Coalitions
+5. Round-Off
 ## Game Modes
 The game has 2 primary game modes: Story and Events. Story mode is a collection of pre-constructed missions mainly used to familiarise oneself with the game mechanics. It also contains the tutorials introducing the new mechanics of each new set and gives some rewards to help players get their collection started. Events are where the main experience of the game is. There are PvP (playing against other player-constructed decks) and PvE (playing against developer-designed missions) events for one to choose to dabble in for the chance to earn rewards from their progress and/or their final ranking in the event.
 ![A 5 Naodi](/uploads/basic-gameplay/a-5-naodi.jpg "A 5 Naodi")![M 5 Teukx](/uploads/basic-gameplay/m-5-teukx.jpg "M 5 Teukx")
@@ -33,3 +35,18 @@ The planeswalker’s dashboard shows you the abilities the planeswalker has, the
 Matching 4 gems in a row will clear the row which the 4 gems are aligned on, but you do not gain any mana from the extra destroyed gems. Matching 5 of more gems of the same colour in one group will give you a free turn!
 
 Each coloured gem match you make will also give you 1 loyalty point (barring some edge cases). Matching loyalty gems, the ones with a 5-pronged fork on them, will gain you loyalty points equal to the number of loyalty gems matched. Cascades from your initial match continue to give you mana and loyalty points so matching for maximum gain is paramount. Loyalty points are used for planeswalker abilities and you can see that each planeswalker has 3 abilities with varying effects. These abilities not only contribute to your combat effort but help define the flavour of each planeswalker.
+
+![Jacomsc](/uploads/basic-gameplay/jacomsc.jpg "Jacomsc")![Flosidq](/uploads/basic-gameplay/flosidq.jpg "Flosidq")
+The black column with the black circles is your hand and can be expanded by swiping out from the column towards the middle of the screen. You can hold a maximum of 6 cards in hand and cards can be re-ordered by long-pressing on them and then dragging them up or down past other cards. Cards can also be dragged to the trash bin on the right to be removed from your hand (and get put in the exile pile).
+
+To prevent a card from being played once its mana is filled up, you can tap on its round icon on the top right to grey it out. When in this state, the card will not cast until you enable it by tapping on the round icon again.
+
+On your turn, you draw a card by default and then get to make a match. If you wish to use any of your planeswalker’s abilities, you have to trigger it before making the match. After the match, any creatures you have on the board will attack the opponent (or the opponent’s creature if there are relevant creature abilities active). Newly summoned creatures have ‘summoning sickness’ and cannot attack until your next turn. Thereafter it becomes your opponent’s turn, and your opponent will likewise draw a card, use any of its planeswalker abilities, make a match, and have its creatures attack.
+
+You will only have space for 3 creatures on your side of the battlefield, so a 4th creature will have to replace 1 of your 3 existing creatures. If the creature to be summoned is a copy of 1 of the 3 on your board, it will instead reinforce the existing copy, adding its stats to the existing copy and triggering any ‘Enter the Battlefield’ (ETB) abilities.
+
+The fight will last until either planeswalker’s health hits zero.
+## Coalitions
+Coalition comprise of up to 20 members. There will be events which are coalition only or for which you stand to gain coalition rewards from if you are in a coalition. However, the most important aspect of a coalition is that you get to reach out to kindred folk who share the experience of MTGPQ with you. MTPGQ players are overall rather friendly to fellow players and are very much interested to help others along with the game. Hence, one cannot over-stress the importance of finding an active coalition or community when playing MTPGQ. For more information, check out the Coalitions section.
+## Round-Off
+MTGPQ is a game built around the familiar mechanic of match-3 but yet stays fresh through the addition of having planeswalkers and deckbuilding backed by the immensely rich lore and theme of Magic the Gathering. The game isn’t perfect but it is entertaining and compelling in its own ways. If your interest has been piqued, do look around the wiki for more information on this game.

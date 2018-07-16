@@ -7,6 +7,7 @@
 ![2018/07/15 - 2018/07/21](/uploads/events-schedules/20180715-20180721.png "2018/07/15 - 2018/07/21")
 ## Past
 ![2018/07/01 - 2018/07/07](/uploads/events-schedules/20180701-20180707.png "2018/07/01 - 2018/07/07")
+## [Basic Gameplay](/basic-gameplay)
 # Sets
 ### 
 # Planeswalkers

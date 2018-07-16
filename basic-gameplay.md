@@ -6,8 +6,8 @@ Magic the Gathering: Puzzle Quest (MTGPQ) is a free-to-play match-3 game at hear
 
 Over the course of the game, you will gather different planeswalkers to aid your cause. Planeswalkers can be levelled up to unlock new abilities or better stats. You will also collect cards through the Booster Pack system to build your decks with. The game also has a coalitions feature which allows you to join a coalition to contribute your scores in coalition events to obtain greater rewards. The game is currently only available on Android and iOS.
 
-1. [Game Modes](/basic-gameplay#game-modes)
-2. Cards
+1. [Game Modes](#game-modes)
+2. [Cards](#cards)
 3. Combat Basics
 4. Coalitions
 5. Round-Off

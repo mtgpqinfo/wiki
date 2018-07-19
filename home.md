@@ -1,6 +1,6 @@
 <!-- TITLE: Welcome to the unofficial mtgpq wiki, a reference written and maintained by players -->
 
-# Events
+# Event Schedule
 ## Current
 ![2018/07/08 - 2018/07/14](/uploads/events-schedules/20180708-20180714.png "2018/07/08 - 2018/07/14")
 ## Upcoming
